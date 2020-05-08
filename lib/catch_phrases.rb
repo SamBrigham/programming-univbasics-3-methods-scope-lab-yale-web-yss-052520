@@ -10,6 +10,7 @@ def toadstool
 end
 
 def link
+  status = ""
   
 
 def all_phrases
